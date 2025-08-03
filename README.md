@@ -6,7 +6,7 @@
 
 Cyberbullying adalah salah satu ancaman paling nyata di dunia digital saat ini. Proyek ini menghadirkan solusi berbasis **AI Generatif (LLM)** untuk mendeteksi dan memahami komentar-komentar yang mengandung unsur bullying di media sosial berbahasa Indonesia.
 
-Dengan memanfaatkan **model IBM Granite**, proyek ini secara otomatis:
+Dengan memanfaatkan **model IBM Granite**, proyek ini secara otomatis;
 
 * Mengklasifikasikan komentar sebagai **"Bullying"** atau **"Bukan Bullying"**
 * Merangkum komentar secara singkat namun bermakna
